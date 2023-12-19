@@ -20,6 +20,6 @@ Where needed, XPRV can be converted to ZPRV using xprv_to_zprv.py
 
 ## Credits
 
-BIP Utils: https://github.com/ebellocchia/bip_utils/blob/master/examples/bip44.py
-XPrv ZPrv conversion: https://gist.github.com/openoms/4e8a527e4c9757162a53f2dc96e3d229
-Solana Derivation: https://nick.af/articles/derive-solana-addresses
+* BIP Utils: https://github.com/ebellocchia/bip_utils/blob/master/examples/bip44.py
+* XPrv ZPrv conversion: https://gist.github.com/openoms/4e8a527e4c9757162a53f2dc96e3d229
+* Solana Derivation: https://nick.af/articles/derive-solana-addresses
